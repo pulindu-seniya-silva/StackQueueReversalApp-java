@@ -1,0 +1,1 @@
+A simple Java console application demonstrating how to reverse the order of elements using the classic stack and queue data structures. The program reads characters from the user, stores them in a queue, transfers them to a stack, and then re-inserts them into the queue to reverse the order — a perfect example of LIFO and FIFO collaboration!
